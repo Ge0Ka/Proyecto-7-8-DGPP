@@ -19,7 +19,6 @@ Pincipalmente seria a traves de la campaña de crowdfounding y si se consigue di
 Tirar hacia una buena jugabilidad y mecánicas divertidas que atraiga a los jugadores y haga que se queden  para ver nuestros proximos proyectos.
 
 ## Por último, explica cómo enfocarías estos aspectos para llegar a desarrollar este videojuego:
-
 - La producción.
 
 La produccion la dividiria en tener un producto minimo viable tras las primeras dos semanas que tenga las cosas basicas como tu zona de trabajo donde puedas construir un par de cosas. Y un mapa que puedas jugar sin muchas cosas. Para acabar el mes tendria que tener un mapa 100% terminado y la zona de trabajo bien estructurada. Para las dos siguientes semanas los demas mapas serian terminados y las ultimas dos semanas se dedicaria a la música, los textos, mejorar el rendimiento y solucionar errores.
@@ -33,3 +32,9 @@ Meidante una serie de springs a lo largo de las semanas se irian repartiendo tar
 
 
 # Proyecto-8-DGPP
+## ¿Cuáles son los objetivos que se persiguen con la producción del videojuego?
+El objetivo principal es el de aprender como hacer diferentes procesos y mecánicas que no hemos hecho antes. Empezando por la programacion en 3D y el como aplicar 3D en unity, añadir animaciones, texturas e iluminación. Tambien nos gustaria hacer mecánicas como tener un inventario o realizar un ciclo de dias en los que el tiempo avance y tanto las criaturas como las estructuras vayan cambiando a medida que pase el juego.
+
+## ¿Cómo has tenido en cuenta el posible éxito del proyecto en el diseño del mismo?
+
+
