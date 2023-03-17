@@ -36,5 +36,4 @@ Meidante una serie de springs a lo largo de las semanas se irian repartiendo tar
 El objetivo principal es el de aprender como hacer diferentes procesos y mecánicas que no hemos hecho antes. Empezando por la programacion en 3D y el como aplicar 3D en unity, añadir animaciones, texturas e iluminación. Tambien nos gustaria hacer mecánicas como tener un inventario o realizar un ciclo de dias en los que el tiempo avance y tanto las criaturas como las estructuras vayan cambiando a medida que pase el juego.
 
 ## ¿Cómo has tenido en cuenta el posible éxito del proyecto en el diseño del mismo?
-
-
+Haciendo el diseño del mismo y buscando posibles competidores se ha visto que teniendo en cuenta que el juego sera del genero farm, no hay ningun otro juego que centre la historia y el juego en la crianza de peces y la recuperacion de la faun a marina. Ademas si conseguimos un buen diseño y que sea bonito sera un buen reclamo para atraer a más gente.
