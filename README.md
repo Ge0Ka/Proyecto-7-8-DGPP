@@ -37,3 +37,5 @@ El objetivo principal es el de aprender como hacer diferentes procesos y mecáni
 
 ## ¿Cómo has tenido en cuenta el posible éxito del proyecto en el diseño del mismo?
 Haciendo el diseño del mismo y buscando posibles competidores se ha visto que teniendo en cuenta que el juego sera del genero farm, no hay ningun otro juego que centre la historia y el juego en la crianza de peces y la recuperacion de la faun a marina. Ademas si conseguimos un buen diseño y que sea bonito sera un buen reclamo para atraer a más gente.
+|ghggh|
+|-----|
