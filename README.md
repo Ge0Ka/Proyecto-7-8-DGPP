@@ -41,6 +41,12 @@ Haciendo el diseño del mismo y buscando posibles competidores se ha visto que t
 ## DAFO
 | DEBILIDADES | AMENAZAS | FORTALEZA | OPORTUNIDAD |
 | --- | --- | --- | --- |
-| Nunca hemos hecho un juego 3D en unity | Puede que fallemos con la gestion del tiempo y que los spints se salgan de control | Tenemos ganas de este hacer el proyecto ahora que ya se han decidido las bases| Dentro del mercado no hay otro videojuego que se pueda comparar directamente con esta idea |
+| Nunca hemos hecho un juego 3D en unity | Puede que fallemos con la gestion del tiempo y que los sprints se salgan de control | Tenemos ganas de hacer el proyecto ahora que ya se han decidido las bases| Dentro del mercado no hay otro videojuego que se pueda comparar directamente con esta idea |
 | --- | --- | --- | --- |
 
+## Tabla con la estimación de los recursos necesarios y costes de la producción.
+
+
+## Viabilidad del proyecto en función de la estimación anterior.
+
+## Cómo se va a mantener la calidad del proyecto.
