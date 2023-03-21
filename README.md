@@ -20,13 +20,10 @@ Tirar hacia una buena jugabilidad y mecánicas divertidas que atraiga a los juga
 
 ## Por último, explica cómo enfocarías estos aspectos para llegar a desarrollar este videojuego:
 - La producción.
-
 La produccion la dividiria en tener un producto minimo viable tras las primeras dos semanas que tenga las cosas basicas como tu zona de trabajo donde puedas construir un par de cosas. Y un mapa que puedas jugar sin muchas cosas. Para acabar el mes tendria que tener un mapa 100% terminado y la zona de trabajo bien estructurada. Para las dos siguientes semanas los demas mapas serian terminados y las ultimas dos semanas se dedicaria a la música, los textos, mejorar el rendimiento y solucionar errores.
 - La publicación.
-
 Se publicaria en Steam y en plataformas como Itch.io. Si las ventas van bien ya se plantearia sacarlos para otra plataforma
 - La gestión.
-
 Meidante una serie de springs a lo largo de las semanas se irian repartiendo tareas a los diferentes integrantes intentando que cada semana todo el mundo tenga algo que hacer de lo suyo, de forma que no haya una semana que alguien este mas sobbrecargado y a la siguiente no tenga nada que hacer.
 
 
@@ -45,8 +42,20 @@ Haciendo el diseño del mismo y buscando posibles competidores se ha visto que t
 | --- | --- | --- | --- |
 
 ## Tabla con la estimación de los recursos necesarios y costes de la producción.
+|Recursos|Unidades|Coste|Pagos|Coste Final|
+| --- | --- | --- | --- | --- |
+|Programadores|2|1.200€|2|4.800€|
+|Artistas|2,5|1.400€|2|7.000€|
+|Diseñador|1|1.000€|1|1.000€|
+|Productor|1|1.500€|2|3.000€|
+|Músico|1|1.200€|1|1.200€|
+|Publicacion en Steam|---|100€|---|100€|
+|Extras|---|1.000€|---|1.000€|
+|||||18.100€|
 
+20.000€ redondeando y teniendo en cuenta que todos seriamos juniors
 
 ## Viabilidad del proyecto en función de la estimación anterior.
 
 ## Cómo se va a mantener la calidad del proyecto.
+La calida del proyecto se conseguira a traves de un codigo limpio y decisiones en conjunto con otros miembros de modo que una persona sola no sea la causante de ningún fallo y a mas opiniones y mas maneras de entender las cosas evitamos que si de casualidad ocurriera ese fallo mas personas sepan como resolverlo. Ademas una vez conseguido el producto minimo viable se haran testesteos con personas esternas a cada final de sprint con la intencionn de recibir feedback constante y intentar hacer correcciones si el tiempo lo permite.
